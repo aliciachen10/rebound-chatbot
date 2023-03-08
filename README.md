@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+###  guide for creating chatbot
+
+used this to get the chatbot to be a full-stack one https://ordinarycoders.com/blog/article/reactjs-chatbot
