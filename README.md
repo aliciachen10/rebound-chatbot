@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###  guide for creating chatbot
 
-used this to get the chatbot to be a full-stack one https://ordinarycoders.com/blog/article/reactjs-chatbot
+used this to get the chatbot to be a full-stack one https://ordinarycoders.com/blog/article/reactjs-chatbot# rebound-chatbot
