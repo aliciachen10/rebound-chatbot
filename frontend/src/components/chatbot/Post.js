@@ -9,6 +9,7 @@ class Post extends Component {
     const { submit, firstname, lastname, email } = steps;
 
     this.state =  { submit, firstname, lastname, email }; 
+    // console.log (submit, firstname, lastname, email)
   }
 
 
@@ -19,6 +20,7 @@ class Post extends Component {
       last_name:this.state.lastname.value,
       email:this.state.email.value,
     };
+    console.log(userObject)
     axios.post(`/api`, userObject)
     .then(res => {
       console.log(res.status)

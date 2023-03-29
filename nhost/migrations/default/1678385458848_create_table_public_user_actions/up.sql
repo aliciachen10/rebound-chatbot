@@ -1,0 +1,1 @@
+CREATE TABLE "public"."user_actions" ("user_id" uuid NOT NULL, "created_at" timestamptz NOT NULL DEFAULT now(), "bot_text" text NOT NULL, "entry_number" serial NOT NULL, PRIMARY KEY ("entry_number") , UNIQUE ("entry_number"));
